@@ -1,0 +1,36 @@
+C:\Users\Guilherme\Dropbox\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.deps.json
+C:\Users\Guilherme\Dropbox\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.runtimeconfig.json
+C:\Users\Guilherme\Dropbox\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.runtimeconfig.dev.json
+C:\Users\Guilherme\Dropbox\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.dll
+C:\Users\Guilherme\Dropbox\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.pdb
+C:\Users\Guilherme\Dropbox\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Dropbox\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.AssemblyInfo.cs
+C:\Users\Guilherme\Dropbox\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.dll
+C:\Users\Guilherme\Dropbox\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.pdb
+E:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.deps.json
+E:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.runtimeconfig.json
+E:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.runtimeconfig.dev.json
+E:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.dll
+E:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.pdb
+E:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.AssemblyInfo.cs
+E:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.dll
+E:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.pdb
+E:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.csprojResolveAssemblyReference.cache
+F:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.deps.json
+F:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.runtimeconfig.json
+F:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.runtimeconfig.dev.json
+F:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.dll
+F:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.pdb
+F:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.csprojResolveAssemblyReference.cache
+F:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.AssemblyInfo.cs
+F:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.dll
+F:\[Cedro] Projeto Restaurante\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.pdb
+C:\CEDRO\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.deps.json
+C:\CEDRO\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.runtimeconfig.json
+C:\CEDRO\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.runtimeconfig.dev.json
+C:\CEDRO\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.dll
+C:\CEDRO\RestauranteApi\RestauranteApi\bin\Debug\netcoreapp1.1\RestauranteApi.pdb
+C:\CEDRO\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.csprojResolveAssemblyReference.cache
+C:\CEDRO\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.AssemblyInfo.cs
+C:\CEDRO\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.dll
+C:\CEDRO\RestauranteApi\RestauranteApi\obj\Debug\netcoreapp1.1\RestauranteApi.pdb
